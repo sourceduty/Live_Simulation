@@ -9,7 +9,7 @@
 The simulations cover topics such as current weather conditions and forecasts, recent news updates, crop forecasts, soil conditions, and seasonal agricultural trends. By responding to user inputs, Live Simulation tailors its models to meet specific needs, asking clarifying questions to refine simulations and ensure relevance. Whether a user is interested in predicting crop yields, understanding market trends, or planning around weather events, this GPT offers a customized, step-by-step approach to provide insights, all while emphasizing adaptability and transparency in its modeling process.
 
 #
-### Simulation Model Types
+### Example Simulation Model Types
 
 | Domain      | Simulation Type                  | Description                                                                             |
 |-------------|-----------------------------------|-----------------------------------------------------------------------------------------|

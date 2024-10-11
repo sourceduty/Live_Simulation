@@ -27,7 +27,7 @@ The simulations cover topics such as current weather conditions and forecasts, r
 #
 ### Simulated Software
 
-![Software](https://github.com/user-attachments/assets/f614bf16-b6be-4905-83e4-9b2d1dbef15b)
+![Simulation](https://github.com/user-attachments/assets/fd50c5a5-6bf2-4052-a623-005156bc892f)
 
 An offline GPT can be an effective tool for software usage simulations by providing a controlled environment where users can interact with a model to understand and practice software tasks without requiring internet access. Such a model can be trained or fine-tuned on specific software documentation, user manuals, and interactive walkthroughs to simulate the behavior and responses of the actual software. By embedding this into a local application, users can ask questions, receive step-by-step guidance, and practice commands or procedures in a simulated, risk-free environment. This is especially useful for training scenarios, onboarding, and situations where direct access to the software might be restricted, such as proprietary or sensitive applications.
 

@@ -90,7 +90,7 @@ Currently, HOT2000 simulations are not live in the traditional sense. These simu
 
 #
 
-Alex: "*HOT2000 is a beuty theoretical energy simulation model for houses and buildings.*"
+> Alex: "*HOT2000 is a beuty theoretical energy simulation model for houses and buildings.*"
 
 #
 ### Related Links
